@@ -25,9 +25,20 @@ export default function LeaderboardTable({
   const [sortKey, setSortKey] = useState<SortKey>('total')
   const [sortDir, setSortDir] = useState<SortDir>('desc')
   const [currentPage, setCurrentPage] = useState(1)
+  const [searchQuery, setSearchQuery] = useState('')
 
   const sorted = useMemo(() => {
-    const copy = [...students]
+    let copy = [...students]
+    
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase().trim()
+      copy = copy.filter(s => 
+        s.name.toLowerCase().includes(q) ||
+        s.roll.toLowerCase().includes(q) ||
+        s.team.toLowerCase().includes(q)
+      )
+    }
+
     copy.sort((a, b) => {
       let cmp = 0
       if (sortKey === 'rank' || sortKey === 'total') cmp = b.total - a.total
@@ -36,7 +47,7 @@ export default function LeaderboardTable({
       return sortDir === 'asc' ? -cmp : cmp
     })
     return limit > 0 ? copy.slice(0, limit) : copy
-  }, [students, sortKey, sortDir, limit])
+  }, [students, sortKey, sortDir, limit, searchQuery])
 
   const totalPages = Math.ceil(sorted.length / ITEMS_PER_PAGE)
   const paginatedStudents = limit > 0 
@@ -67,6 +78,27 @@ export default function LeaderboardTable({
 
   return (
     <>
+      {/* Search Bar */}
+      {limit === 0 && (
+        <div className="mb-6 relative">
+          <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+            <svg className="w-4 h-4 text-slate-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+              <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
+            </svg>
+          </div>
+          <input
+            type="search"
+            placeholder="Search by name, roll no, or team..."
+            value={searchQuery}
+            onChange={e => {
+              setSearchQuery(e.target.value)
+              setCurrentPage(1)
+            }}
+            className="w-full md:w-96 bg-[#050505] border border-slate-800 text-white text-sm rounded-xl focus:ring-brand-500 focus:border-brand-500 block pl-10 p-3 outline-none placeholder-slate-500 shadow-[0_0_15px_rgba(0,0,0,0.5)] transition-colors hover:border-slate-700"
+          />
+        </div>
+      )}
+
       {/* Desktop table */}
       <div className="hidden md:block table-container">
         <table className="data-table">

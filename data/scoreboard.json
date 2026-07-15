@@ -1,740 +1,7628 @@
 {
   "25mx342": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx223": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx126": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx341": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx125": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx220": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx128": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
-  },
-  "25mx106": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx206": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx357": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx307": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx354": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx304": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx323": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx330": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx225": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx226": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx217": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx209": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx348": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx347": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx130": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx211": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx325": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx315": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx328": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx109": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx114": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx214": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx111": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx112": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx202": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx120": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx108": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx219": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx301": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx358": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx308": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx355": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx102": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx322": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx320": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx119": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx338": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx345": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx313": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx228": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx340": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx123": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx213": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx207": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx346": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
-  },
-  "25mx353": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx310": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx324": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx230": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx316": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx327": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx204": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx318": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx113": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx331": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx227": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx124": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx332": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx216": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx343": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx337": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx215": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx203": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx218": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx359": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx232": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx115": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx334": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx116": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx339": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx305": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx212": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx122": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx319": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx121": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx361": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx351": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx229": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx201": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx221": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx362": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx222": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx127": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx333": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx210": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx129": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx309": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx104": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx306": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx321": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx311": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
-  "25mx231": {
+  "25mx307": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
-  "25mx224": {
+  "25mx354": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
-  "25mx208": {
+  "25mx304": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   },
-  "25mx335": {
+  "25mx323": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
+  },
+  "25mx330": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx225": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx226": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx217": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx358": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx209": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx348": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx347": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx212": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx130": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx308": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx211": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx325": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx315": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx328": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx109": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx111": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx357": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx112": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx202": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx120": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx219": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx345": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
   },
   "25mx117": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
-  },
-  "25mx336": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx118": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx110": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx103": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx356": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx349": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx107": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx344": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx317": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx326": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx314": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx329": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx352": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx363": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx312": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx105": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
-  },
-  "25mx205": {
-    "byDay": {
-      "2026-07-14": 100
-    },
-    "total": 100
+    "manualAdjustments": null
   },
   "25mx101": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
+  },
+  "25mx322": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx355": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx114": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx102": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx337": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx119": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx338": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx227": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx306": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx228": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx340": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx123": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx362": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx207": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx320": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx353": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx310": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx324": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx230": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx316": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx327": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx318": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx104": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx331": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx113": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx124": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx332": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx216": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx343": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx215": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx314": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx218": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx359": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx107": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx232": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx115": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx334": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx116": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx339": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx210": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx305": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx122": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx129": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx121": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx335": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx317": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx351": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx352": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx221": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx363": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx201": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx222": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx127": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx333": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx203": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx214": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx309": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx356": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx204": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx321": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx110": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx231": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx224": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx208": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx313": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx229": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx336": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx118": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx103": {
+    "total": 60,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx206": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx349": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx213": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx344": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx301": {
+    "total": 60,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx326": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx205": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx329": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx108": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx319": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx312": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx105": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
+  },
+  "25mx106": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
   },
   "25mx360": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
+  },
+  "25mx361": {
+    "total": 30,
+    "byDay": {
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
+    },
+    "manualAdjustments": null
   },
   "25mx350": {
+    "total": 30,
     "byDay": {
-      "2026-07-14": 100
+      "2026-07-14": {
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
+        "prompting": 5,
+        "documentation": 5
+      },
+      "2026-07-15": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-16": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-17": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-18": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-20": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-21": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      },
+      "2026-07-22": {
+        "submitted": 0,
+        "quality": 0,
+        "reflection": 0,
+        "prompting": 0,
+        "documentation": 0
+      }
     },
-    "total": 100
+    "manualAdjustments": null
   }
 }

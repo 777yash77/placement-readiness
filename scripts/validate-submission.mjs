@@ -73,6 +73,16 @@ for (const file of changedFiles) {
     continue;
   }
 
+  // Extension check
+  const allowedExtensions = ['.md', '.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp'];
+  const extMatch = normalised.match(/\.[a-zA-Z0-9]+$/);
+  if (extMatch) {
+    const ext = extMatch[0].toLowerCase();
+    if (!allowedExtensions.includes(ext)) {
+      errors.push(`🚫 Unsupported file type "${ext}": "${file}"\n   Allowed types: ${allowedExtensions.join(', ')}`);
+    }
+  }
+
   // Binary / size check
   const absPath = resolve(ROOT, normalised);
   if (existsSync(absPath)) {
