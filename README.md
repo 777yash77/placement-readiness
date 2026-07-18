@@ -23,19 +23,34 @@ A fully transparent, GitHub-driven leaderboard and submission portal. No databas
 | Rank | Student | Roll No | Score | Attendance |
 |------|---------|---------|-------|-----------|
 | 🥇 1 | KASBIYA M | 25mx322 | 50 | 2/2 (100%) |
-| 🥈 2 | VISHNUVARDANI K S | 25mx359 | 50 | 2/2 (100%) |
-| 🥉 3 | BARATHVIKRAMAN S K | 25mx103 | 50 | 2/2 (100%) |
-| 4 | Dayananda J | 25mx308 | 48 | 2/2 (100%) |
-| 5 | Tino Britty J | 25mx354 | 46 | 2/2 (100%) |
-| 6 | DARUNYA SRI.M | 25mx307 | 25 | 1/2 (50%) |
-| 7 | Keerthanaa J | 25mx323 | 25 | 1/2 (50%) |
-| 8 | POORANI R | 25mx338 | 25 | 1/2 (50%) |
-| 9 | SABARISH P | 25mx343 | 25 | 1/2 (50%) |
-| 10 | Naga Sruthi M | 25mx333 | 25 | 1/2 (50%) |
+| 🥈 2 | SABARISH P | 25mx343 | 50 | 2/2 (100%) |
+| 🥉 3 | VISHNUVARDANI K S | 25mx359 | 50 | 2/2 (100%) |
+| 4 | BARATHVIKRAMAN S K | 25mx103 | 50 | 2/2 (100%) |
+| 5 | Shanmugappriya K | 25mx223 | 48 | 2/2 (100%) |
+| 6 | Dayananda J | 25mx308 | 48 | 2/2 (100%) |
+| 7 | Tino Britty J | 25mx354 | 46 | 2/2 (100%) |
+| 8 | Induja E | 25mx315 | 43 | 2/2 (100%) |
+| 9 | DARUNYA SRI.M | 25mx307 | 25 | 1/2 (50%) |
+| 10 | Keerthanaa J | 25mx323 | 25 | 1/2 (50%) |
 
-**🏆 Top Team:** Team 6 (avg: 9.5 pts)
-**Today's submissions:** 10/123 students submitted on 2026-07-17 · **Last updated:** 2026-07-18
+**🏆 Top Team:** Team 6 (avg: 10.9 pts)
+**Today's submissions:** 17/123 students submitted on 2026-07-17 · **Last updated:** 2026-07-18
 <!-- LEADERBOARD:END -->
+
+---
+
+## 🤖 How the Automation Works
+
+This portal is designed to run completely autonomously using GitHub Actions. Here is the full lifecycle of a student's submission:
+
+1. **Pull Request Validation** (`validate-pr.yml`):
+   When a student opens a PR, a GitHub Action runs `validate-submission.mjs`. It strictly verifies that the student *only* edited their designated `activities/YYYY-MM-DD/<roll-number>` folder and that they included all required files (e.g., `README.md`, `reflection.md`, `prompts.md`).
+2. **Auto-Merge**:
+   If the validation checks pass successfully, the GitHub Action bot automatically approves the pull request and squash-merges it into the `main` branch. No manual review is required from maintainers.
+3. **Recalculate & Leaderboard Update** (`on-merge.yml`):
+   Immediately after the PR is auto-merged, another action is triggered. It runs the automated scoring system, updates the underlying JSON databases, and regenerates the leaderboard in this README.
+4. **Vercel Auto-Deploy**:
+   Finally, the action commits the updated scores back to the repository and triggers a Vercel deploy hook, ensuring the [live dashboard](https://class.psgmx.tech/) reflects the newest submissions instantly.
 
 ---
 

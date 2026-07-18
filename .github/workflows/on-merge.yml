@@ -15,8 +15,8 @@ jobs:
     name: Recalculate Scores + Regenerate README
     runs-on: ubuntu-latest
 
-    # Skip if this commit was made by the GitHub Actions bot (loop guard)
-    if: github.actor != 'github-actions[bot]'
+    # Skip if this commit was made by the bot recalculating scores (loop guard)
+    if: "!contains(github.event.head_commit.message, 'chore: recalculate scores')"
 
     permissions:
       contents: write
@@ -66,7 +66,12 @@ jobs:
 
       # ── Step 4: Trigger Vercel redeploy ──────────────────────────────────────
       - name: Trigger Vercel Deploy Hook
-        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
-          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
-          echo "✅ Vercel deploy hook triggered."
+          if [ -n "$VERCEL_DEPLOY_HOOK" ]; then
+            curl -X POST "$VERCEL_DEPLOY_HOOK"
+            echo "✅ Vercel deploy hook triggered."
+          else
+            echo "⏭️ No VERCEL_DEPLOY_HOOK secret found, skipping."
+          fi

@@ -164,8 +164,13 @@ export function buildActivityDays(
   attendance: Attendance,
 ): ActivityDay[] {
   const allDays = new Set<string>()
+  const todayId = getTodayId()
   for (const studentAtt of Object.values(attendance)) {
-    for (const day of Object.keys(studentAtt)) allDays.add(day)
+    for (const day of Object.keys(studentAtt)) {
+      if (day <= todayId) {
+        allDays.add(day)
+      }
+    }
   }
 
   const days = Array.from(allDays).sort()
