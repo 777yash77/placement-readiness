@@ -106,11 +106,30 @@ jobs:
             exit 0
           fi
           
-          echo "Author $AUTHOR is a student. Submissions passed validation."
+          echo "Checking if only activities folder was edited..."
+          CHANGED="${{ steps.files.outputs.changed }}"
+          
+          # Split by comma and check if every file starts with 'activities/'
+          IFS=',' read -ra FILES <<< "$CHANGED"
+          ONLY_ACTIVITIES=true
+          for file in "${FILES[@]}"; do
+            [ -z "$file" ] && continue
+            if [[ "$file" != activities/* ]]; then
+              ONLY_ACTIVITIES=false
+              break
+            fi
+          done
+          
+          if [ "$ONLY_ACTIVITIES" = false ]; then
+            echo "PR contains changes outside the 'activities/' folder. Skipping auto-merge."
+            exit 0
+          fi
+          
+          echo "Author $AUTHOR is a student and only edited activities. Submissions passed validation."
           echo "Approving and auto-merging PR..."
           
           # Approve the PR (Optional but helpful if branch protection requires approvals)
           gh pr review ${{ github.event.pull_request.number }} --approve -b "Automatic approval: submission passed all requirements. 🎉" || echo "Approval failed or not required."
           
-          # Merge the PR (Squash merge)
-          gh pr merge ${{ github.event.pull_request.number }} --squash -d
+          # Enable auto-merge (will merge when this workflow completes if branch protection requires it)
+          gh pr merge ${{ github.event.pull_request.number }} --auto --squash -d || gh pr merge ${{ github.event.pull_request.number }} --squash -d || echo "Failed to merge PR"
