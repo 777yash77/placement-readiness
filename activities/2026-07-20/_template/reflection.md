@@ -1,3 +1,6 @@
 # Reflection
 
 What did you learn today?
+ABOUT AWS BASICS
+AWS ARCHITECTURE
+BACKTRACKING BASICS
